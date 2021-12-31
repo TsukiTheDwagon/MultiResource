@@ -33,6 +33,7 @@ mklink /D multiresource_open_shared_resources\.minecraft\shaderpacks ..\..\multi
 mklink /D multiresource_open_shared_resources\.minecraft\texturepacks ..\..\multiresource\universal_resources\texturepacks
 echo [INFO] Symbolic links created.
 mkdir multiresource/universal_resources/config multiresource/universal_resources/resourcepacks multiresource/universal_resources/saves multiresource/universal_resources/screenshots multiresource/universal_resources/shaderpacks multiresource/universal_resources/texturepacks
+echo [INFO] Created resource folders.
 echo [INFO] Adding default pre-launch command to allow setting up instances...
 :prelaunch
 setlocal disableDelayedExpansion
