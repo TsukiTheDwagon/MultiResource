@@ -44,4 +44,4 @@ This launch option opens this file you're reading right now.
 
 
 # Credits
-MultiResource was made by TsukiTheDwagon.
+MultiResource was made by TsukiTheDwagon and is licensed under the GNU GPL v3.
