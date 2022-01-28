@@ -8,8 +8,8 @@ if exist .\init_instance.bat goto :eof
 rmdir figura
 
 :: Next, copy this command to the empty space below and uncomment it. Replace <resourceName> in the command with the resource name you added in the previous step.
-:: mklink /D <resourceName> ..\..\universal_resources\<resourceName>
-mklink /D figura ..\..\universal_resources\figura
+:: mklink /D <resourceName> ..\..\multiresource\universal_resources\<resourceName>
+mklink /D figura ..\..\multiresource\universal_resources\figura
 
 
 
